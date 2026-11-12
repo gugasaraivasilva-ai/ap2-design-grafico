@@ -500,7 +500,7 @@ button:focus {
 }
 
 .banner_area .bg-parallax {
-  background: url("../image/shih-tzu.webp") no-repeat scroll center 0/cover;
+  background: url("../image/banner-principal-shih-tzu-adocao.webp") no-repeat scroll center 0/cover;
   opacity: 0.50;
 }
 
@@ -673,7 +673,7 @@ button:focus {
 }
 
 .breadcrumb_area .bg-parallax {
-  background: url("../image/cachorros-correndo.avif") no-repeat scroll center 0/cover;
+  background: url("../image/banner-paginas-cachorros-correndo.avif") no-repeat scroll center 0/cover;
   opacity: 0.50;
   z-index: -1;
 }
@@ -718,7 +718,7 @@ button:focus {
 }
 
 .blog_banner .bg-parallax {
-  background: url(../image/banner/cachorro-correndo.webp) no-repeat scroll center center;
+  background: url(../image/banner/banner-blog-cachorro-correndo.webp) no-repeat scroll center center;
 }
 
 .blog_banner .banner_content {
@@ -751,7 +751,7 @@ button:focus {
 }
 
 .blog_banner_two .bg-parallax {
-  background: url(../image/banner/filhotes-fofos.avif) no-repeat scroll center top/cover;
+  background: url(../image/banner/banner-artigo-filhotes-fofos.avif) no-repeat scroll center top/cover;
 }
 
 /*=============End Blog Banner css =============*/
@@ -829,7 +829,7 @@ button:focus {
 }
 
 .facilities_area .bg-parallax {
-  background: url("../image/golden-triste.avif") no-repeat scroll center 0/cover;
+  background: url("../image/fundo-golden-retriever-esperando-adocao.avif") no-repeat scroll center 0/cover;
   opacity: 0.15;
 }
 
